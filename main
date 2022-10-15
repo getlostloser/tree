@@ -1,0 +1,52 @@
+<html>
+    
+    <head>
+                
+        <title>Topics in Math</title>
+
+   </head>
+
+    
+    <body>
+        
+        <h1>Topics in Math</h1>
+        
+        <h2>Welcome!</h2>
+        
+              
+        <p>
+            Teacher Name: Mrs Evelyn <br>
+            Class: Year 8 RL<br>
+        </p>
+       
+        
+        
+       
+         <a href="myphoto.jpg">Math</a> 
+ 
+       <img src="myphoto.jpg" style="width:200px;height:200px;border-radius:100px;margin-right:150 px;">
+        
+        
+    
+        
+        <h5>Some of the topics this year</h5>
+
+        <p>
+           Math topics are<br>
+        </p>
+        
+        <nav>
+            <ul>
+            <li><a href="#">Speed and Rate</a></li>
+            <li><a href="#">Ratio</a></li>
+            <li><a href="#">Fractions</a></li>
+            <li><a href="#">Percentage</a></li>
+
+                         
+            </ul>
+        </nav>
+      
+        
+        
+    </body>
+</html>
